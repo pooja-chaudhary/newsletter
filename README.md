@@ -1,6 +1,6 @@
 ### Subscribe to my Newsletter 
-####  Click Here to Subscribe
-This is a website for newsLetter subscription using mailchimp API.
+#### [Click Here to Subscribe](https://pooja-chaudhary.github.io/newsletter-js/)
+This is a website for newsLetter subscription using Mailchimp API.
 ``` 
 Copyright (c) 2022 Pooja Chaudhary
 Website: https://pooja-chaudhary.github.io
